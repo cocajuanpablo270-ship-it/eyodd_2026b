@@ -1,4 +1,4 @@
-
+![alt text](<image (1)-1.png>)
 
 
 # __Estructura y Organización de Datos__ 
@@ -9,7 +9,7 @@
  + Identifica, selecciona y aplica eficientemente tipos de datos abstractos, métodos de ordenamiento y búsqueda para la optimización del rendimiento de soluciones de problemas del mundo real.
 
 
-## __Contenido__ 
+## __Contenido__
 
  + **Unidad 1**: Fundamentos de estructura de datos 
 
@@ -19,4 +19,4 @@
 
  + **Unidad 4**: Métodos de ordenamiento y búsqueda
 
-
+Cambio en el Codespace 
